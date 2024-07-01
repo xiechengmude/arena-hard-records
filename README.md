@@ -3,7 +3,7 @@ Arena-Hard-Auto-v0.1 is an automatic evaluation tool for instruction-tuned LLMs.
 
 Check out our paper for more details about how Arena Hard Auto v0.1 works -> [Paper link](https://arxiv.org/abs/2406.11939).
 
-## Full Leaderboard (Updated: 05/21)
+## Full Leaderboard (Updated: 06/07)
 ```console
 gpt-4-turbo-2024-04-09         | score: 82.6  | 95% CI: (-1.7, 1.9)  | average #tokens: 662
 gpt-4-0125-preview             | score: 78.0  | 95% CI: (-2.1, 2.4)  | average #tokens: 619
